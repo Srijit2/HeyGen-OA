@@ -11,7 +11,7 @@
 
 # Customization
 
-Depending on client needs it can set a job to different priorities ("high", "medium", "low"). 
+Depending on a clients needs, they can set a job to different priorities ("high", "medium", "low"). 
 The higher a priority the lower the delay between endpoint hits. 
 
 This can be selected on line 50 of client.py
