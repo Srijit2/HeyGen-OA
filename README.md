@@ -13,6 +13,7 @@
 
 Depending on a clients needs, they can set a job to different priorities ("high", "medium", "low"). 
 The higher a priority the lower the delay between endpoint hits. 
+High priority jobs are optimized for latency whereas low prioirty jobs are optimized to reduce cost.
 
 This can be selected on line 50 of client.py
 
