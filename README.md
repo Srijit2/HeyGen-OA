@@ -2,14 +2,14 @@
 
 1. To run the client start up the server by running:
    
-python server.py 
+   python server.py 
 
 2. Run the client
 
-python client.py
+   python client.py
 
 
-#Customization
+# Customization
 
 Depending on client needs it can set a job to different priorities ("high", "medium", "low"). 
 The higher a priority the lower the delay between endpoint hits. 
